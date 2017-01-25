@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
         let z: Int? = x1! + y1!
         
-        LableText.text = String("\(z!) 😎")
+        LableText.text = String("\(z!) 😎😉")
         
         
     }
